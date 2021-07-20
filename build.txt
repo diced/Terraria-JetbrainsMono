@@ -1,7 +1,7 @@
-displayName = Better Russian Font (Улучшенный русский шрифт)
-author = Translators Team & Mirsario
+displayName = Jetbrains Mono Font
+author = dicedtomato
 version = 1.0.1
 includeSource = true
 hideResources = false
 hideCode = false
-homepage = https://github.com/Mirsario/Terraria-BetterRussian
+homepage = https://github.com/diced/Terraria-JetbrainsMono
