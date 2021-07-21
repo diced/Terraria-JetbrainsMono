@@ -1,6 +1,7 @@
 displayName = Jetbrains Mono Font
 author = dicedtomato
-version = 1.0.1
+version = 1.0.2
+side = Client
 includeSource = true
 hideResources = false
 hideCode = false

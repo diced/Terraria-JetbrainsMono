@@ -14,7 +14,7 @@ namespace JetbrainsMonoFont
 		private DynamicSpriteFont deathTextBackup;
 		private DynamicSpriteFont itemStackBackup;
 		private DynamicSpriteFont mouseTextBackup;
-		
+
 		public override void Load()
 		{
 			if(Main.dedServ) {
